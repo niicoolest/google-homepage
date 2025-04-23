@@ -2,7 +2,7 @@
 <h1>Google Home Page (Rebuilt) 💻</h1>
 <h3>This is a rebuilt google home page using HTML5 and plain CSS for the odin project assignment.</h3>
 
-<h4>Live preview can be found <a href="https://niicoolest/google-homepage/">here</a> </h4>
+<h4>Live preview can be found <a href="https://niicoolest.github.io/google-homepage/">here</a> </h4>
 
 <h2>WIL 🤔</h2>
 <p>In doing this exercise, I was able to refresh some css concepts I learned such as flex displays. 
